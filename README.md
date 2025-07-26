@@ -1,5 +1,5 @@
 # Gunjan' portfolio
-## [Project 1: Coffee-sales-dashboard](https://github.com/gujjy/coffee-sales-dashboard)
+# [Project 1: Coffee-sales-dashboard](https://github.com/gujjy/coffee-sales-dashboard)
 
 Coffee sales dashboard built in Excel. Includes insights on revenue, top products, and regions using pivot tables, charts, and slicers.
 
