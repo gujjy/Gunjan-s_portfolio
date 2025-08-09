@@ -3,7 +3,7 @@
 
 Coffee sales dashboard built in Excel. Includes insights on revenue, top products, and regions using pivot tables, charts, and slicers.
 
-📊 Built a fully interactive coffee sales dashboard using Microsoft Excel
+*📊 Built a fully interactive coffee sales dashboard using Microsoft Excel
 
 ☕ Analyzed sales trends across products, regions, and customer segments
 
